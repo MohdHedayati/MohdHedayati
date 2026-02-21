@@ -35,7 +35,7 @@
 
 ## 🏅 Holopin Badge Board
 
-[![@mohdhedayati's Holopin board](https://holopin.io/api/user/board?user=mohdhedayati)](https://holopin.io/@mohdhedayati)
+[![@mohdhedayati's Holopin board](https://holopin.io/api/user/board?user=mohdhedayati&v=2)](https://holopin.io/@mohdhedayati)
 
 ---
 
