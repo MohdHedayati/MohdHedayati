@@ -27,8 +27,6 @@
 ## 📊 GitHub Summary Card
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohdHedayati&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohdHedayati&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohdHedayati&theme=tokyonight&utcOffset=0)
 
 ---
